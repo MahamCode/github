@@ -1,0 +1,8 @@
+git init
+
+//to connect to the existing directory
+git remote add origin git@github.com:MahamCode/test1.git
+
+git add .
+git commit -m "assign 1"
+git push
