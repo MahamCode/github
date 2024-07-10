@@ -6,3 +6,5 @@ git remote add origin git@github.com:MahamCode/test1.git
 git add .
 git commit -m "assign 1"
 git push
+or
+git push --set-upstream origin branch name
