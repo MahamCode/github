@@ -1,10 +1,16 @@
 git init
 
 //to connect to the existing directory
-git remote add origin git@github.com:MahamCode/test1.git
+git remote add origin git@github.com:MahamCode/github.git 
+//in above instead of git@github.com:MahamCode/github.git there would be your github link
 
 git add .
 git commit -m "assign 1"
 git push
 or
 git push --set-upstream origin branch name
+
+//to get data from repo or connect with the repo
+git clone repolink
+
+

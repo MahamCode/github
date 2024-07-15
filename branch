@@ -1,1 +1,12 @@
+//the below command will copy the current branch data and then make a new branch and then paste the previous branch data to the newly created branch.
+
 git switch -C branhName
+
+//to make new branch only
+git checkout -b branhName
+
+//to go the specific branch
+git checkout branchname_here
+
+//to merge the code
+git merge main_branch //this command should be in newly created branch
