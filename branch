@@ -9,4 +9,5 @@ git checkout -b branhName
 git checkout branchname_here
 
 //to merge the code
-git merge main_branch //this command should be in newly created branch
+git merge main_branch
+//the above command should be in newly created branch, and main_branch could be your master branch where you want to merge the code
